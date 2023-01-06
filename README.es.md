@@ -16,7 +16,7 @@ Este tutorial interactivo te ayudará a familiarizarte con ella, dominar las fun
 
 Nota: Todo el tutorial es completamente 👆 interactivo, ✅ con auto correción y 📹 videos tutoriales.
 
-Estos ejercicios fueron construidos en colaboración. !te necesitamos! Si consigues algún error o falta ortográfica por favor ayúdanos y repórtalos.
+Estos ejercicios fueron construidos en colaboración. ¡Te necesitamos! Si consigues algún error o falta ortográfica por favor ayúdanos y repórtalos.
 
 <!-- hide -->
 
